@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //Comentario de prueba
         textView_HelloWorld.text="Bienvenido al curso Android con Kotlin";
     }
 }
